@@ -1,0 +1,17 @@
+import { atom } from "jotai";
+
+export const accountAtom = atom(null)
+export const accountPreferencesAtom = atom(null)
+export const bookingPreferencesAtom = atom(null)
+export const locationAtom = atom(null)
+export const serviceAtom = atom(null)
+export const resourceAtom = atom(null)
+export const classAtom = atom(null)
+export const teamAtom = atom(null)
+export const customerAtom = atom(null)
+export const timezoneAtom = atom(null)
+export const premiumFeatureAtom = atom(null)
+export const resourceCategoryAtom = atom(null)
+export const servicesCategoryAtom = atom(null)
+export const classesCategoryAtom = atom(null)
+export const childrenAtom = atom(null)

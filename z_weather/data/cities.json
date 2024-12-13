@@ -1,0 +1,110 @@
+[
+  {
+    "id": 707860,
+    "name": "Hurzuf",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.549999
+    }
+  },
+  {
+    "id": 519188,
+    "name": "Novinki",
+    "country": "RU",
+    "coord": {
+      "lon": 37.666668,
+      "lat": 55.683334
+    }
+  },
+  {
+    "id": 1283378,
+    "name": "Gorkhā",
+    "country": "NP",
+    "coord": {
+      "lon": 84.633331,
+      "lat": 28
+    }
+  },
+  {
+    "id": 1275339,
+    "name": "Mumbai",
+    "country": "IN",
+    "coord": {
+      "lon": 72.847939,
+      "lat": 19.01441
+    }
+  },
+  {
+    "id": 1273294,
+    "name": "Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.23114,
+      "lat": 28.65195
+    }
+  },
+  {
+    "id": 1259229,
+    "name": "Bengaluru",
+    "country": "IN",
+    "coord": {
+      "lon": 77.603287,
+      "lat": 12.97623
+    }
+  },
+  {
+    "id": 1257381,
+    "name": "Hyderabad",
+    "country": "IN",
+    "coord": {
+      "lon": 78.47444,
+      "lat": 17.36156
+    }
+  },
+  {
+    "id": 1264527,
+    "name": "Chennai",
+    "country": "IN",
+    "coord": {
+      "lon": 80.278473,
+      "lat": 13.08784
+    }
+  },
+  {
+    "id": 1248991,
+    "name": "Colombo",
+    "country": "LK",
+    "coord": {
+      "lon": 79.84778,
+      "lat": 6.93444
+    }
+  },
+  {
+    "id": 1241622,
+    "name": "Kandy",
+    "country": "LK",
+    "coord": {
+      "lon": 80.643051,
+      "lat": 7.29639
+    }
+  },
+  {
+    "id": 1283240,
+    "name": "Kathmandu",
+    "country": "NP",
+    "coord": {
+      "lon": 85.316666,
+      "lat": 27.716667
+    }
+  },
+  {
+    "id": 1282898,
+    "name": "Pokhara",
+    "country": "NP",
+    "coord": {
+      "lon": 83.98333,
+      "lat": 28.233334
+    }
+  }
+]
